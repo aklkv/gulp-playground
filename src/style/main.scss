@@ -1,0 +1,16 @@
+$color: #fff000;
+$main-text-color: #f0f;
+
+body {
+  background: $color;
+}
+
+header {
+  h1 {
+    color: $main-text-color;
+  }
+
+  p {
+    color: $main-text-color;
+  }
+}
